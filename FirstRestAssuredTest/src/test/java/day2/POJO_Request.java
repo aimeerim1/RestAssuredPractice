@@ -1,3 +1,5 @@
+package day2;
+
 public class POJO_Request {
     String name;
     String job;
